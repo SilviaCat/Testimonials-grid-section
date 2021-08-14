@@ -9,9 +9,10 @@ body {
   max-width: 1440px;
   margin: 0 auto;
   font-family: 'Barlow Semi Condensed', sans-serif;
-  background-color: rgb(214, 224, 225);
+  background-color: #eef2f7;
   font-size: 13px;
   font-weight: 500;
+  margin: 0 auto;
 }
 
 strong {
