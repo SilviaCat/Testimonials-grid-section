@@ -8,7 +8,7 @@
 body {
   display: grid;
   max-width: 1440px;
-  height: 100vh;
+  min-height: 100vh;
   margin: 0 auto; 
   font-family: 'Barlow Semi Condensed', sans-serif;
   background-color: #eef2f7;
